@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">intermediate</string>
+    <string name="app_name_detail">Detail Story</string>
+    <string name="app_name_map">Map Story</string>
+
+    <string name="logout">Log Out</string>
+    <string name="message_main_page">Welcome to our Intermediate Story App!</string>
+
+    <string name="title_welcome">Welcome to Intermediate Story App!</string>
+    <string name="message_welcome_page">"Share your experiences through photos, like photographs, selfies, etc."</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+
+    <string name="title_login_page">Login</string>
+    <string name="message_login_page">Fill your email and password!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="signup_name">Name</string>
+    <string name="title_signup_page">Sign Up</string>
+
+    <string name="hint_ed_password">Enter Your Password</string>
+    <string name="hint_ed_email">Enter your email</string>
+    <string name="hint_ed_name">Enter your name</string>
+
+    <string name="empty_input">This field cannot be empty</string>
+    <string name="log_out_btn">Log Out</string>
+    <string name="map_button">Map Button</string>
+
+    <string name="detail_desc">Story Description</string>
+    <string name="detail_username">username</string>
+    <string name="detail_time">Thursday, 16.00 PM</string>
+
+    <string name="item_user_username">Username</string>
+    <string name="item_user_time">12.00</string>
+    <string name="caption_post">Test caption \n #StoryAppIntermediate</string>
+    <string name="gallery_btn">Gallery</string>
+    <string name="camera_btn">Camera</string>
+    <string name="upload_desc">Description</string>
+    <string name="ed_upload_desc">Put your description</string>
+    <string name="upload_btn">Upload</string>
+
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type_map">Normal</string>
+    <string name="satellite_type_map">Satellite</string>
+    <string name="terrain_type_map">Terrain</string>
+    <string name="hybrid_type_map">Hybrid</string>
+
+</resources>

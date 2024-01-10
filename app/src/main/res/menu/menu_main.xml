@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mapButton"
+        app:showAsAction="always"
+        android:title="@string/map_button"
+        android:icon="@drawable/baseline_map_24" />
+
+    <item
+        android:id="@+id/logoutButton"
+        android:title="@string/log_out_btn"
+        app:showAsAction="always"
+        android:icon="@drawable/outline_logout_24"
+        tools:ignore="AlwaysShowAction" />
+</menu>
